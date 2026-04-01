@@ -26,8 +26,8 @@ To write a java program to get name from the user and print it.
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Sanjay Kumar H
-RegisterNumber: 212223040182
+Developed by: Devasanjay N
+RegisterNumber: 212223040032
 */
 
 import java.util.*;
